@@ -11,3 +11,8 @@
         int area1= sideA * sideB;
         int area2= sideA * sideB*sideC;
 
+Console.WriteLine("Площадь комнаты: {0}", area1);
+        Console.WriteLine("Обьем комнты: {0}", area2);
+        Console.ReadLine();
+    }
+    }
